@@ -1,0 +1,11 @@
+Model Information:
+* title:	50's style Ray Gun
+* source:	https://sketchfab.com/3d-models/50s-style-ray-gun-42b7288de197481292cc0f511f84a0dc
+* author:	mrpetercharman (https://sketchfab.com/mrpetercharman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "50's style Ray Gun" (https://sketchfab.com/3d-models/50s-style-ray-gun-42b7288de197481292cc0f511f84a0dc) by mrpetercharman (https://sketchfab.com/mrpetercharman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
